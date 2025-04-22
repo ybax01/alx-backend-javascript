@@ -17,5 +17,5 @@ export default function getListStudents() {
       location: 'San Francisco',
     };
   
-    return [o1, o2, o3];
+    return [p1, p2, p3];
   }
