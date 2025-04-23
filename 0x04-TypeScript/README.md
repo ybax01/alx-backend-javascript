@@ -1,1 +1,1 @@
-Learning ES6
+TypeScript
